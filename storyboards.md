@@ -9,4 +9,4 @@ Danny's storyboards:
 
 "Proximity Cook"
 
-![Proximity Cook 1](/images/storyboards/DDstoryboard1-1.jpg)
+![Proximity Cook 1](/images/storyboards/DDstoryboard1-1.jpeg)
