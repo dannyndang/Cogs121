@@ -1,15 +1,15 @@
-Danny Dang
+# Danny Dang
 
-Robert Ferng
+# Robert Ferng
 
-Karthik Komatineni
+# Karthik Komatineni
 
-Hon Lao (Henry)
-
-
+# Hon Lao (Henry)
 
 
-Danny's storyboards:
+
+
+**Danny's storyboards:**
 
 "Proximity Cook"
 
