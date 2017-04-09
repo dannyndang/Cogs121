@@ -5,11 +5,11 @@
 ### Karthik Komatineni
 
 "Path Finder"
-![Path Finder 1](/images/storyboards/S2.JPG)
-![Path Finder 2](/images/storyboards/S3.JPG)
+![Path Finder 1](/images/storyboards/S2.jpg)
+![Path Finder 2](/images/storyboards/S3.jpg)
 
 "Campus Rider"
-![Campus Rider 1](/images/storyboards/SS.JPG)
+![Campus Rider 1](/images/storyboards/SS.jpg)
 
 ### Hon Lao (Henry)
 
