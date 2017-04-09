@@ -9,7 +9,7 @@
 ![Path Finder 2](/images/storyboards/S3.jpg)
 
 "Campus Rider"
-![Campus Rider 1](/images/storyboards/SS.jpg)
+![Campus Rider 1](/images/storyboards/ss.jpg)
 
 ### Hon Lao (Henry)
 
