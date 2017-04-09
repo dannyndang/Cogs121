@@ -13,7 +13,7 @@ Danny's storyboards:
 
 "Proximity Cook"
 
-![Proximity Cook 1](/Cogs121/images/storyboards/DDstoryboard1-1)
+![Proximity Cook 1](/Cogs121/images/storyboards/DDstoryboard1-1.jpg)
 
 
 "Drop Party"
