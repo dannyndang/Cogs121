@@ -41,12 +41,12 @@
 
 "Run Route"
 
-![RunRoute](/images/storyboards/RFstoryboard.JPG)
+![RunRoute](/images/storyboards/RFstoryboard.jpeg)
 
 
 "FoodHunt"
 
-![FoodHunt](/images/storyboards/RFstoryboard2.JPG)
+![FoodHunt](/images/storyboards/RFstoryboard2.jpeg)
 
 
 
