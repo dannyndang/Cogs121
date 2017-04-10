@@ -6,16 +6,15 @@
 
 ### Karthik Komatineni
 
+
+**Karthik's storyboards:**
+
 "Path Finder"
 ![Path Finder 1](/images/storyboards/S2.jpg)
 ![Path Finder 2](/images/storyboards/S3.jpg)
 
 "Campus Rider"
 ![Campus Rider 1](/images/storyboards/ss.jpg)
-
-
-
-
 
 
 **Danny's storyboards:**
@@ -35,8 +34,18 @@
 ![Drop Party 3](/images/storyboards/DDstoryboard2-3.JPG)
 ![Drop Party 4](/images/storyboards/DDstoryboard2-4.JPG)
 
+
+
+
+**Robert's storyboards:**
+
 "Run Route"
+
 ![RunRoute](/images/storyboards/RFstoryboard.JPG)
+
+
+"FoodHunt"
+
 ![FoodHunt](/images/storyboards/RFstoryboard2.JPG)
 
 
