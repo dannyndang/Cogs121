@@ -12,8 +12,11 @@ Ghost Tag will be a hide and seek style game in which one person is the ghost an
 
 ### How we will split the programming:
 Karthik - back-end, javascript, database, server
+
 Danny - front-end, HTML/CSS
+
 Robert - front-end, HTML/CSS
+
 Henry - back-end, javascript, database, server
 
 
