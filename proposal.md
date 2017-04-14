@@ -3,7 +3,7 @@
 ### Imagine trying to find a ghost. What's your lead? Steps. That's all you get.
 
 ### Storyboard:
-
+![GhostTag](/images/storyboards/GhostTag.PNG)
 ### Peer Feedback: 
 Based on peer feedback we decided to combine ideas from our many different storyboards. For our ideas Pathfinder and Campus Rider, people thought it would be useful, but had no longevity. People do like the routes and tracking where people go however. GuessingGame and GeoCache had generally positive feedback. The latter two ideas aren't particularly unique. That is why we decided to combine these four storyboard ideas together. We want to create a hide and seek style game that includes guessing location and/or finding other participants. Peers also stated that there needs to be a range, so the ranger can be a whole campus or a mall. It depends on the game rules that we have yet to develop. Overall, feedback was that the storyboard ideas are simple, but bare. By combining the ideas and turning it into a game we came up with Ghost Tag.
 
