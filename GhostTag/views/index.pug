@@ -1,0 +1,17 @@
+extends layout
+
+block content
+    h1(class='testHome text-center') #[strong Welcome to Ghost Tag!]
+    h2(class= 'testHome text-center') Let's Get Started!
+
+    //p(class= 'text-center') Click #[a(href="/select") here] to get started!
+
+
+    button(type="button" id="start" class="btn btn-success center-block") Start
+    
+    script(type='text/javascript').
+        window.onload = function () {
+            document.getElementById("start").onclick = function(){
+                location.href = "/select" 
+            };
+        };
