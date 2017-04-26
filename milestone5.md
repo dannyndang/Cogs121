@@ -7,4 +7,4 @@ Hon Lao - Set up node.js
 
 
 Screenshot
-![Core Functionality Screenshot](/images/milestone5progressSS.png)
+![Core Functionality Screenshot](/images/milestone5progressSS.PNG)
